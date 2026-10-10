@@ -18,7 +18,7 @@ import {
   Sparkles
 } from 'lucide-react';
 
-const WA_NUMBER = "6281234567890"; // Ganti dengan nomor WA resmi Ritelindo
+const WA_NUMBER = "6285311111010"; 
 const WA_MESSAGE = encodeURIComponent("Halo Tim Ritelindo, saya ingin Konsultasi WA Gratis & Layout 3D untuk toko/minimarket saya.");
 const WA_LINK = `https://wa.me/${WA_NUMBER}?text=${WA_MESSAGE}`;
 
